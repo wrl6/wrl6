@@ -1,0 +1,7 @@
+from time import sleep
+nom1 = input("Enter a numper :")
+nom2 = input("Enter the second number :")
+sleep(1)
+print(float(nom1)+float(nom2))
+
+print("---------")
